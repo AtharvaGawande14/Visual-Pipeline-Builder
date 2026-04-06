@@ -100,13 +100,17 @@ npm start
 
 ## 🎥 Demo
 
-👉 Add your demo video link here (Google Drive / YouTube)
+👉 https://drive.google.com/file/d/1pVn_edrA6cFr58hhF3ehLEWle-rdXMSd/view?usp=sharing
 
 ---
 
 ## 📸 Screenshots
 
-👉 Add 2–3 screenshots here
+<img width="1853" height="865" alt="Screenshot 2026-04-06 215109" src="https://github.com/user-attachments/assets/01a186a2-1689-4cbf-a074-376d388c382b" />
+
+<img width="1837" height="835" alt="Screenshot 2026-04-06 215122" src="https://github.com/user-attachments/assets/9400222a-49dd-4117-8285-581b4d407113" />
+
+
 
 ---
 
