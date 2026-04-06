@@ -72,7 +72,7 @@ This project is a visual pipeline builder that allows users to create workflows 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/visual-pipeline-builder.git
+git clone https://github.com/AtharvaGawande14/visual-pipeline-builder.git
 cd visual-pipeline-builder
 ```
 
