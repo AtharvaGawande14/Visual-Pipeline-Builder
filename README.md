@@ -1,12 +1,12 @@
-# 🚀 Visual Pipeline Builder
+#  Visual Pipeline Builder
 
-## 📌 Overview
+##  Overview
 
 This project is a visual pipeline builder that allows users to create workflows using a drag-and-drop interface. Users can connect different nodes to form a pipeline and analyze its structure in real time.
 
 ---
 
-## 🧠 Features
+##  Features
 
 * Drag-and-drop pipeline creation
 * Multiple node types:
@@ -25,7 +25,7 @@ This project is a visual pipeline builder that allows users to create workflows 
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 ### Frontend
 
@@ -39,7 +39,7 @@ This project is a visual pipeline builder that allows users to create workflows 
 
 ---
 
-## 🎨 UI Highlights
+##  UI Highlights
 
 * Modern card-based node design
 * Color-coded nodes:
@@ -53,7 +53,7 @@ This project is a visual pipeline builder that allows users to create workflows 
 
 ---
 
-## 🔗 How It Works
+##  How It Works
 
 1. Users drag and drop nodes onto the canvas
 2. Nodes are connected using edges
@@ -67,7 +67,7 @@ This project is a visual pipeline builder that allows users to create workflows 
 
 ---
 
-## ⚙️ Setup Instructions
+##  Setup Instructions
 
 ### 1. Clone the Repository
 
@@ -98,13 +98,13 @@ npm start
 
 ---
 
-## 🎥 Demo
+##  Demo
 
-👉 https://drive.google.com/file/d/1pVn_edrA6cFr58hhF3ehLEWle-rdXMSd/view?usp=sharing
+ https://drive.google.com/file/d/1pVn_edrA6cFr58hhF3ehLEWle-rdXMSd/view?usp=sharing
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
 <img width="1853" height="865" alt="Screenshot 2026-04-06 215109" src="https://github.com/user-attachments/assets/01a186a2-1689-4cbf-a074-376d388c382b" />
 
@@ -114,7 +114,7 @@ npm start
 
 ---
 
-## 💡 Future Improvements
+### Future Improvements
 
 * Pipeline execution engine
 * Real LLM integration
