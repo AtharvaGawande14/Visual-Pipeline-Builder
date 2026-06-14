@@ -14,7 +14,7 @@ export const SubmitButton = () => {
                 .map(edge => `${edge.source}-${edge.target}`)
                 .join(",");
 
-            const response = await fetch("http://localhost:8000/pipelines/parse", {
+            const response = await fetch("https://visual-pipeline-builder-scea.onrender.com/pipelines/parse", {
                 method: "POST",
                 headers: {
                     "Content-Type": "application/x-www-form-urlencoded"
