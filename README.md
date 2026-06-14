@@ -104,6 +104,16 @@ npm start
 
 ---
 
+## Live Demo
+
+Frontend (Vercel):
+https://visual-pipeline-builder-5rfa8ud8y-atharva-gawande-s-projects.vercel.app/
+
+Backend (Render):
+https://visual-pipeline-builder-scea.onrender.com
+
+---
+
 ##  Screenshots
 
 <img width="1853" height="865" alt="Screenshot 2026-04-06 215109" src="https://github.com/user-attachments/assets/01a186a2-1689-4cbf-a074-376d388c382b" />
